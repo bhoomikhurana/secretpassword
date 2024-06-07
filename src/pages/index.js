@@ -144,7 +144,7 @@ export default function Home() {
         </div>
       </Card>
       <span className="text-sm text-slate-300">
-        Developed by:-
+        Developed by
         <a
           className="ml-1 font-medium text-orange-500 no-underline hover:underline"
           href="https://github.com/bhoomikhurana"
